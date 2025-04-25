@@ -6,8 +6,7 @@
 
 <h2>Adding Scripts to Game Mode:</h2>
 <ol>
-  <li>Go to Desktop Mode</li>
-  <li>Download any of these scripts from github and extract the Zip file if needed</li>
+  <li>Go to Desktop Mode and download any of these scripts from github (extract them from the Zip file, if necessary)</li>
   <li>Right click on a script and select "Properties"</li>
   <li>Select the "Permissions" tab and check the "Is executable" box</li>
   <li>Right click on the script again and select "Add to Steam"</li>
