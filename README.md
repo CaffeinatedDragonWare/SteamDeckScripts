@@ -1,0 +1,3 @@
+These scripts are meant to be run from Gamemode:
+desktop_black_fix.sh: This script allows you to fix an annoying bug with Desktop Mode which results in a black screen. The script deletes the kscreen folder which contains display settings for Desktop Mode.
+boot-movie-mover.sh: This is meant for users of the Animation Changer Decky Loader Plugin. This plugin allows you to download boot movies to your Steam Deck from game mode but you can't access them using the Steam Deck's Customization settings. This script moves these boot movies from the plugin's folder to the Steam Deck's default boot movie folder.
